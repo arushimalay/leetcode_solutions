@@ -4,7 +4,6 @@ class Solution
     {
         int size=nums.length;
         int a=0;
-        int b=size-1;
         int i;
         for(i=0;i<size;i++)
         {
